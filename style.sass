@@ -1,0 +1,198 @@
+body
+  text-align: center
+  margin: 0px
+
+#header
+  background: black
+  color: white
+  font-family: 'Source Code Pro', monospace
+  list-style: none
+  margin: 0px
+  margin-top: 200px
+  padding: 0px
+  padding-bottom: 6px
+  padding-left: 28px
+  padding-right: 28px
+
+  li
+    font-size: 1.1em
+    padding: 0.3em
+    padding-left: 1em
+    padding-right: 1em
+    display: inline-block
+    border-left: 1px solid #888
+    position: relative
+
+  li.main
+    font-variant: small-caps
+    font-size: 1.5em
+    border: none
+
+    #logo-crop
+      height: 178px
+      overflow: hidden
+      position: absolute
+
+      top: -177px
+      left: -12px
+
+      #logo
+        width: 300px
+
+  a
+    color: white
+    text-decoration: none
+
+
+#content
+  margin-top: 2em
+  padding: 1em
+  font-family: 'Vollkorn', serif
+  font-weight: 300
+  font-size: 1.1em
+
+h1, h2, h3, h4, h5
+  font-family: 'Source Code Pro', monospace
+  font-weight: 300
+
+h1, h2
+  margin: auto
+  width: 80%
+  margin-top: 2.5em
+  border-bottom: 1px solid #ccc
+  margin-bottom: 1.4em
+  padding-bottom: 1.1em
+
+h2
+  width: 40%
+
+h3, h4, h5
+  margin-top: 3em
+
+#dataprotection
+  max-width: 840px
+  margin: auto
+  font-size: 0.85em
+
+  p, ul
+    text-align: left
+
+@media (max-width: 600px)
+  body
+    text-align: left
+
+  h1, h2, h3, h4, h5
+    text-align: left
+    border: none
+    margin: 0px
+    margin-top: 0.5em
+    margin-bottom: 0.5em
+    padding: 0px
+
+  ul
+    padding-left: 10px
+
+  #header
+    padding: 0px
+    padding-top: 0.2em
+    padding-bottom: 0.2em
+
+    li
+      display: blocK
+      border: none
+      padding-left: 25px
+
+  #content
+    margin-top: 0px
+    padding-top: 0.5em
+
+@font-face
+  font-family: 'Source Code Pro'
+  font-style: normal
+  font-weight: 200
+  src: local('Source Code Pro ExtraLight'), local('SourceCodePro-ExtraLight'), url(fonts/SourceCodePro/SourceCodePro-ExtraLight.ttf) format('truetype')
+
+@font-face
+  font-family: 'Source Code Pro'
+  font-style: normal
+  font-weight: 300
+  src: local('Source Code Pro Light'), local('SourceCodePro-Light'), url(fonts/SourceCodePro/SourceCodePro-Light.ttf) format('truetype')
+
+@font-face
+  font-family: 'Source Code Pro'
+  font-style: normal
+  font-weight: 400
+  src: local('Source Code Pro'), local('SourceCodePro-Regular'), url(fonts/SourceCodePro/SourceCodePro-Regular.ttf) format('truetype')
+
+@font-face
+  font-family: 'Source Code Pro'
+  font-style: normal
+  font-weight: 500
+  src: local('Source Code Pro Medium'), local('SourceCodePro-Medium'), url(fonts/SourceCodePro/SourceCodePro-Medium.ttf) format('truetype')
+
+@font-face
+  font-family: 'Source Code Pro'
+  font-style: normal
+  font-weight: 600
+  src: local('Source Code Pro Semibold'), local('SourceCodePro-Semibold'), url(fonts/SourceCodePro/SourceCodePro-Semibold.ttf) format('truetype')
+
+@font-face
+  font-family: 'Source Code Pro'
+  font-style: normal
+  font-weight: 700
+  src: local('Source Code Pro Bold'), local('SourceCodePro-Bold'), url(fonts/SourceCodePro/SourceCodePro-Bold.ttf) format('truetype')
+
+@font-face
+  font-family: 'Source Code Pro'
+  font-style: normal
+  font-weight: 900
+  src: local('Source Code Pro Black'), local('SourceCodePro-Black'), url(fonts/SourceCodePro/SourceCodePro-Black.ttf) format('truetype')
+
+@font-face
+  font-family: 'Vollkorn'
+  font-style: italic
+  font-weight: 400
+  src: local('Vollkorn Italic'), local('Vollkorn-Italic'), url(fonts/Vollkorn/Vollkorn-Italic.ttf) format('truetype')
+
+@font-face
+  font-family: 'Vollkorn'
+  font-style: italic
+  font-weight: 600
+  src: local('Vollkorn SemiBold Italic'), local('Vollkorn-SemiBoldItalic'), url(fonts/Vollkorn/Vollkorn-SemiBoldItalic.ttf) format('truetype')
+
+@font-face
+  font-family: 'Vollkorn'
+  font-style: italic
+  font-weight: 700
+  src: local('Vollkorn Bold Italic'), local('Vollkorn-BoldItalic'), url(fonts/Vollkorn/Vollkorn-BoldItalic.ttf) format('truetype')
+
+@font-face
+  font-family: 'Vollkorn'
+  font-style: italic
+  font-weight: 900
+  src: local('Vollkorn Black Italic'), local('Vollkorn-BlackItalic'), url(fonts/Vollkorn/Vollkorn-Regular.ttf) format('truetype')
+
+@font-face
+  font-family: 'Vollkorn'
+  font-style: normal
+  font-weight: 400
+  src: local('Vollkorn Regular'), local('Vollkorn-Regular'), url(fonts/Vollkorn/Vollkorn-Regular.ttf) format('truetype')
+
+@font-face
+  font-family: 'Vollkorn'
+  font-style: normal
+  font-weight: 600
+  src: local('Vollkorn SemiBold'), local('Vollkorn-SemiBold'), url(fonts/Vollkorn/Vollkorn-SemiBold.ttf) format('truetype')
+
+@font-face
+  font-family: 'Vollkorn'
+  font-style: normal
+  font-weight: 700
+  src: local('Vollkorn Bold'), local('Vollkorn-Bold'), url(fonts/Vollkorn/Vollkorn-Bold.ttf) format('truetype')
+
+@font-face
+  font-family: 'Vollkorn'
+  font-style: normal
+  font-weight: 900
+  src: local('Vollkorn Black'), local('Vollkorn-Black'), url(fonts/Vollkorn/Vollkorn-Black.ttf) format('truetype')
+
