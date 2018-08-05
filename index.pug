@@ -5,13 +5,14 @@ title Megahertz Hannover
 link(rel="stylesheet", type="text/css", href="style.css")
 
 body(lang="de")
-  ul#header
-    li.main: a(href="")
-      #logo-crop
-        img#logo(src="logo.svg")
-      | Megahertz Hannover
-    li: a(href="#contact") Kontakt
-    li: a(href="#dataprotection") Datenschutz
+  #top
+    img#logo-ontop(src="logo-web.svg")
+    ul#header
+      li.main: a(href="")
+        img#logo(src="logo-web.svg")
+        | Megahertz Hannover
+      li: a(href="#contact") Kontakt
+      li: a(href="#dataprotection") Datenschutz
 
   #content
     #about: :markdown-it
@@ -216,7 +217,7 @@ body(lang="de")
       insbesondere gegen die Verarbeitung für Zwecke der Direktwerbung
       erfolgen.
 
-      ### Cookies und Widerspruchsrecht bei Direktwerbung {#dsg-general-cookies}
+      ### Cookies und Widerspruchsrecht bei Direktwerbung
 
       Als „Cookies" werden kleine Dateien bezeichnet, die auf Rechnern der
       Nutzer gespeichert werden. Innerhalb der Cookies können unterschiedliche

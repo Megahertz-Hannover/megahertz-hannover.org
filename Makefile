@@ -1,6 +1,6 @@
 PATH := $(PWD)/node_modules/.bin:$(PATH)
 
-outputs = build/fonts build/logo.svg \
+outputs = build/fonts build/logo-web.svg \
 	$(shell find | grep -vP 'node_modules/|build|.git' \
 		| grep -P '\.(pug|sass)$$' \
 		| sed 's@\.pug$$@.html@; s@\.sass$$@.css@; s@^@build/@')
