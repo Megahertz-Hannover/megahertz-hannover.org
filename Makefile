@@ -2,26 +2,27 @@ SHELL = bash
 
 PATH := $(PWD)/node_modules/.bin:$(PATH)
 
-outputs = build/fonts build/logo-web.svg \
-	$(shell find | grep -vP 'node_modules/|build|.git|^./_' \
-		| grep -P '\.(pug|sass|md)$$' \
-		| sed 's@\.pug$$@.html@; s@\.md$$@.html@; s@\.sass$$@.css@; s@^@build/@')
+
+outputs = \
+	$(shell find site/ -type f          \
+		| grep -vP '/_'                   \
+		| grep '^site/[a-zA-Z_-./]*$$'    \
+		| sed 's@\.pug$$@.html@; s@\.md$$@.html@; s@\.sass$$@.css@; s@^site/@build/@')
 
 .PHONY: all clean
 
 all: $(outputs)
-	echo "$(outputs)"
-
-$(outputs): Makefile _meeting.md
 
 clean:
 	rm -fvr "build/"*
 
-build/%.html: %.pug _template.pug
-	pug < $< > $@
+build/%.html: site/%.pug site/_template.pug
+	@mkdir -p $(shell dirname $@)
+	cd "site" && pug < $< > ../$@ -O '{"basedir": ".", "filename": "."}'
 
-build/%.html: %.md _template.pug
-	echo -e                                           \
+build/%.html: site/%.md site/_template.pug
+	@mkdir -p $(shell dirname $@)
+	cd site && echo -e                                \
 		"extends _template"                             \
 		"\nblock content"                               \
 		"\n  include:markdown-it(                       \
@@ -29,11 +30,16 @@ build/%.html: %.md _template.pug
 				typographer=true                            \
 				linkify=true                                \
 				quotes=['«\xA0', '\xA0»', '‹\xA0', '\xA0›'] \
-				plugins=['markdown-it-include']) $<" \
-		| pug -O '{"filename": "$<"}' > $@
+				plugins=['markdown-it-include']) $*.md"     \
+			| pug > ../$@ -O '{"basedir": ".", "filename": "."}'
 
-build/%.css: %.sass
+build/%.css: site/%.sass
+	@mkdir -p $(shell dirname $@)
 	node-sass --output-style compressed $< > $@
 
-build/%: %
-	cp -rT $< $@
+build/%: site/%
+	@mkdir -p $(shell dirname $@)
+	cp $< $@
+
+$(outputs): Makefile
+site/index.md site/kontakt.md: site/_meeting.md
