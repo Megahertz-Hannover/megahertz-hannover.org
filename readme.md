@@ -74,3 +74,15 @@ Zeile mit größer als ">" beginnt.
 > Langes Zitet.
 > Zum beispiel aus einer Mail!
 ````
+
+## Dateien
+
+* `Makefile` – Das Script das benutzt wird um den Quellcode in die finale Seite zu übersetzen
+* `package.json`, `yarn.lock` – Diese Files geben an, welche Softwarelibraries benutzt werden
+* `node_modules/` – Softwarelibraries werden hierhin übersetzt
+* `build/` – In diesen ordner wird die website generiert
+* `site/` – Der quellcode der Seite
+  - `index.md`, `kontakt.md`, `datenschutz.md` – Die drei Seiten innerhalb unserer Website
+  - `_meeting.md` – Der Block der das nächste Treffen anzeigt wird in die Homepage und in kontakt eingebunden
+  - `_template.pug` – Die vorlage die von den Markdown Seiten benutzt wird. Definiert den Seitenheader und einige metadaten
+  - `style.sass` – Das Design wurde mit SASS erstellt
