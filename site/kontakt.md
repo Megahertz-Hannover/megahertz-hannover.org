@@ -7,6 +7,14 @@ Wir treffen uns jeden dritten Freitag im Monat im
 Du erreichst uns per Mail an kontakt@megahertz-hannover.org oder
 auf Twitter als [@MegaHertz_H](https://twitter.com/MegaHertz_H).
 
+## Chat
+
+Wir haben einen Channel im [Darkfasel IRC](https://www.darkfasel.net/): `#mhzhannover`.
+
+Der kann per [Webchat](https://webirc.darkfasel.net), [Riot/Matrix](https://riot.im) (`/j #fuckeverywhere:http://darkfasel.net` eingeben)
+oder mit beliebigen IRC clients (zum Beispiel [Pidgin](https://pidgin.im/) unter Windows und Linux, oder [Adium](https://adium.im/) auf Mac).
+
+
 ## Mailing Liste
 
 <form class="box" id="subscribe" action="http://kundenserver.de/cgi-bin/mailinglist.cgi" method="POST" target="_blank">
