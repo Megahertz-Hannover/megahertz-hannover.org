@@ -5,8 +5,8 @@ PATH := $(PWD)/node_modules/.bin:$(PATH)
 
 outputs = \
 	$(shell find site/ -type f          \
-		| grep -vP '/_'                   \
-		| grep '^site/[a-zA-Z_-./0-9]*$$'    \
+		| grep -viP '/_'                   \
+		| grep -iP '^site/[a-z0-9./_-]*$$'    \
 		| sed 's@\.pug$$@.html@; s@\.md$$@.html@; s@\.sass$$@.css@; s@^site/@build/@')
 
 .PHONY: all clean
