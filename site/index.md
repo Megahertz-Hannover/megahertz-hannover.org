@@ -1,4 +1,4 @@
-Ein Monatliches Meetup für Technikerinnen und alle technikinteressierte, die sich als Frauen* identifizieren.
+Ein monatliches Meetup für Technikerinnen und alle technikinteressierte, die sich als Frauen* identifizieren.
 !!!include(_meeting.md)!!!
 
 Wir wollen einen Raum schaffen zum Coden, Hacken, Lernen, Löten usw. Egal ob Anfängerin oder Crack, immer rein mit euch!
