@@ -4,5 +4,5 @@ Wir treffen uns jeden dritten Freitag im Monat ab 19:00 Uhr im
 <div class="box" markdown="1">
 <strong>Nächstes Treffen:</strong> 19.9.2018 um 19:00 im Cafe Konrad an der Marktkirche.
 <br/>
-<strong>Thema:</strong>
+<strong>Thema:</strong> Mobile ERP-Systeme
 </div>
