@@ -2,6 +2,11 @@ body
   text-align: center
   margin: 0px
 
+  hyphens: auto
+
+  font-family: 'Assistant', sans-serif
+  font-size: 1.1em
+
 #logo-ontop
   display: none
 
@@ -48,11 +53,6 @@ body
 
   margin-top: 2em
   padding: 1em
-
-  hyphens: auto
-
-  font-family: 'Assistant', sans-serif
-  font-size: 1.1em
 
   pre, code
     font-family: 'Source Code Pro', monospace
@@ -191,6 +191,39 @@ body
       border-radius: 0px
       border-left: 0px
       border-right: 0px
+
+body
+  #theme-select
+    position: absolute
+    top: 0
+    right: 0
+    padding: 0.5em
+    font-weight: bold
+
+    #theme-select a
+      color: black
+
+  #theme-select > #day
+    display: none
+
+body.night
+  background: #111111
+  color: #FCF4D9
+
+  a
+    color: #988bf9
+
+  pre, .box
+    background: black !important
+
+  #theme-select a
+    color: #FCF4D9
+
+  #theme-select > #night
+    display: none
+
+  #theme-select > #day
+    display: initial
 
 // @font-face
 //   font-family: 'Source Code Pro'

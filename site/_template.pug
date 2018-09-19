@@ -5,6 +5,10 @@ title Megahertz Hannover
 link(rel="stylesheet", type="text/css", href="style.css")
 
 body(lang="de")
+  #theme-select
+    a#day(href="javascript:day();") Tag
+    a#night(href="javascript:night()") Nacht
+
   #top
     img#logo-ontop(src="logo-web.svg")
     ul#header
@@ -18,3 +22,17 @@ body(lang="de")
 
   #content
     block content
+
+script.
+  window.night = () => {
+    document.cookie = "theme=night";
+    document.getElementsByTagName("body")[0].classList.add("night");
+  };
+
+  window.day = () => {
+    document.cookie = "theme=day";
+    document.getElementsByTagName("body")[0].classList.remove("night");
+  }
+
+  if (document.cookie.match("theme=night"))
+    night()
