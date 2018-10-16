@@ -4,7 +4,7 @@ Wir treffen uns jeden dritten Freitag im Monat ab 19:00 Uhr im
 -->
 
 <div class="box" markdown="1">
-<strong>Nächstes Treffen:</strong> Oktober
+<strong>Nächstes Treffen:</strong> November
 <br/>
 <strong>Thema:</strong> Wir bauen eine Steuerung für Hochleistungsleds: Hardwaredesign & Programmierung
 </div>
