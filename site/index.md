@@ -36,6 +36,16 @@ hohen Spannungen und Strömen arbeiten kann.
 Auf der Softwareseite werden Mikrocontroller vorgestellt die es einfach Machen WLAN zu benutzen
 und es wird erklärt wie man mit Software LEDs dimmen kann.
 
+
+### 2019-01: exercism.io – Test Driven Development Erleben
+
+Katrin Leinweber besucht uns um ein Tool vorzustellen, mit dem man TDD erleben kann: exercism.io
+
+Wer TDD schon kann & nutzt, erhält hier ein nützlichens Tool zum Weiterüben.
+Wer dagegen überhaupt mal TDD
+probieren möchte, kommt damit sicher in den flow und wird
+davon überzeugt, es auch für echte Programmierprojekte zu nutzen.
+
 ### 2018-10: Hackover
 
 Am 5.-7. Oktober findet das Hackover Statt. Das ist die Hannoveraner Hackerkonferenz mit Ganztagsfrühstück und vielen tollen Vorträgen.
