@@ -1,4 +1,4 @@
-Megahertz is a monthly meetup for all woman who are interested in technology.
+Megahertz is a monthly meetup for all woman* and those who identify as Genderqueer or Nonbinary!
 
 !!!include(_meeting_en.md)!!!
 
