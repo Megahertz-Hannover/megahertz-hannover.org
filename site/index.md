@@ -1,5 +1,5 @@
 Ein monatliches Meetup für Technikerinnen, technikinteressierte Frauen\* und
-all diejenigen die sich als Genderqueer oder Nichbinär identifizieren; es gibt Workshops und die Gelegenheit Gleichgesinnte zu finden.
+all diejenigen die sich als Genderqueer oder Nichbinär identifizieren; es gibt Workshops und die Gelegenheit Gleichgesinnte zu finden!
 
 !!!include(_meeting.md)!!!
 
