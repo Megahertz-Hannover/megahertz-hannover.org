@@ -1,10 +1,10 @@
-# Kontakt
+﻿# Kontakt
 
 Wir treffen uns jeden dritten Freitag im Monat im
 [Cafe Konrad]( https://www.openstreetmap.org/search?query=cafe%20konrad%20hannover#map=19/52.37246/9.73353 ).
 !!!include(_meeting.md)!!!
 
-Du erreichst uns per Mail an kontakt@megahertz-hannover.org oder
+Du erreichst uns per E-Mail an kontakt@megahertz-hannover.org oder
 auf Twitter als [@MegaHertz_H](https://twitter.com/MegaHertz_H).
 
 ## Chat
