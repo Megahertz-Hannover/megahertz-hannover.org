@@ -1,4 +1,4 @@
-﻿# Kontakt
+# Kontakt
 
 Wir treffen uns jeden dritten Freitag im Monat im
 [Cafe Konrad]( https://www.openstreetmap.org/search?query=cafe%20konrad%20hannover#map=19/52.37246/9.73353 ).
