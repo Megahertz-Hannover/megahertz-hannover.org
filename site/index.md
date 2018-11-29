@@ -14,11 +14,6 @@ Wir wollen auch einen Raum bieten um sich auszuprobieren, deshalb unterstützen 
 Schreibt uns eine [Mail](mailto:kontakt@megahertz-hannover.org), wir freuen uns über alle Beiträge!
 
 <a name="blog"></a>
-### 2019-11: Linux Präsentation day Hannover
-
-Am 10. November 2018 findet der [Linux Präsentation Day](https://www.leinelab.org/doku.php/veranstaltungen:linux_presentation_day_am_10.11.2018)
-im [Leinelab](https://www.leinelab.org) statt. Wir treffen uns dort und hören uns gemeinsam die Spannenden Vorträge an.
-
 ### 2018-12: Steuerung für Hochleistungs-LEDs
 
 Im Dezember geht es an die Hardware: Eins unser Mitglieder
@@ -45,6 +40,12 @@ Wer TDD schon kann & nutzt, erhält hier ein nützlichens Tool zum Weiterüben.
 Wer dagegen überhaupt mal TDD
 probieren möchte, kommt damit sicher in den flow und wird
 davon überzeugt, es auch für echte Programmierprojekte zu nutzen.
+
+### 2019-11: Linux Präsentation day Hannover
+
+Am 10. November 2018 findet der [Linux Präsentation Day](https://www.leinelab.org/doku.php/veranstaltungen:linux_presentation_day_am_10.11.2018)
+im [Leinelab](https://www.leinelab.org) statt. Wir treffen uns dort und hören uns gemeinsam die Spannenden Vorträge an.
+
 
 ### 2018-10: Hackover
 
