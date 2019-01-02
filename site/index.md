@@ -14,6 +14,15 @@ Wir wollen auch einen Raum bieten um sich auszuprobieren, deshalb unterstützen 
 Schreibt uns eine [Mail](mailto:kontakt@megahertz-hannover.org), wir freuen uns über alle Beiträge!
 
 <a name="blog"></a>
+### 2019-01: exercism.io – Test Driven Development Erleben
+
+Katrin Leinweber besucht uns um ein Tool vorzustellen, mit dem man TDD erleben kann: exercism.io
+
+Wer TDD schon kann & nutzt, erhält hier ein nützlichens Tool zum Weiterüben.
+Wer dagegen überhaupt mal TDD
+probieren möchte, kommt damit sicher in den flow und wird
+davon überzeugt, es auch für echte Programmierprojekte zu nutzen.
+
 ### 2018-12: Steuerung für Hochleistungs-LEDs
 
 Im Dezember geht es an die Hardware: Eins unser Mitglieder
@@ -32,14 +41,6 @@ Auf der Softwareseite werden Mikrocontroller vorgestellt die es einfach Machen W
 und es wird erklärt wie man mit Software LEDs dimmen kann.
 
 
-### 2019-01: exercism.io – Test Driven Development Erleben
-
-Katrin Leinweber besucht uns um ein Tool vorzustellen, mit dem man TDD erleben kann: exercism.io
-
-Wer TDD schon kann & nutzt, erhält hier ein nützlichens Tool zum Weiterüben.
-Wer dagegen überhaupt mal TDD
-probieren möchte, kommt damit sicher in den flow und wird
-davon überzeugt, es auch für echte Programmierprojekte zu nutzen.
 
 ### 2019-11: Linux Präsentation day Hannover
 
