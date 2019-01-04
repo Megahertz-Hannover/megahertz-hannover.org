@@ -4,5 +4,5 @@ Wir treffen uns jeden dritten Freitag im Monat ab 19:00 Uhr im
 -->
 
 <div class="box" markdown="1">
-</br><strong>Januar 2019:</strong> exercism.io – Test Driven Development Erleben
+<strong>Januar 2019:</strong> exercism.io – Test Driven Development Erleben
 </div>

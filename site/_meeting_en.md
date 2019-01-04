@@ -7,5 +7,5 @@ Wir treffen uns jeden dritten Freitag im Monat ab 19:00 Uhr im
 We usually meet once a month for a short presentation and move on to socializing for the rest of the evening.
 
 <div class="box" markdown="1">
-</br><strong>January 2019:</strong> exercism.io – Experiencing test driven development
+<strong>January 2019:</strong> exercism.io – Experiencing test driven development
 </div>
