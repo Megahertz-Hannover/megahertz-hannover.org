@@ -1,4 +1,4 @@
-Ein monatliches Meetup für Technikerinnen, technikinteressierte Frauen\* und
+Ein monatliches Meetup für Technikerinnen, technikinteressierte Frauen und
 all diejenigen die sich als Genderqueer oder Nichbinär identifizieren; es gibt Workshops und die Gelegenheit Gleichgesinnte zu finden!
 
 !!!include(_meeting.md)!!!
@@ -7,7 +7,7 @@ Wir wollen einen Raum schaffen zum Coden, Hacken, Lernen, Löten usw. Egal ob An
 Projekte starten, Networken, Spaß haben, Workshops halten und was uns sonst noch so einfällt. Ein mal im Monat für uns einen Hackerspace auf Zeit schaffen.
 Unser Ziel ist es für mehr Diversität im Bereich Informations- und Kommunikationstechnologie zu sorgen.
 
-Wir richten uns explizit an alle Frauen*, Genderqueere und Nonbinäre Menschen die Interesse für Technik oder die gesellschaftlichen Auswirkungen von Technik haben,
+Wir richten uns explizit an alle Frauen, Genderqueere und Nonbinäre Menschen die Interesse für Technik oder die gesellschaftlichen Auswirkungen von Technik haben,
 egal wie viel Expertise ihr mitbringt! Ob Politikerin, Künstlerin, Web-Designerin, Softwareentwicklerin, Mechanikerin oder Schülerin. Kommt einfach, wir freuen uns!
 
 Wir wollen auch einen Raum bieten um sich auszuprobieren, deshalb unterstützen wir auch insbesondere Menschen die zum Beispiel zum ersten mal einen Vortrag halten!
@@ -40,8 +40,6 @@ hohen Spannungen und Strömen arbeiten kann.
 Auf der Softwareseite werden Mikrocontroller vorgestellt die es einfach Machen WLAN zu benutzen
 und es wird erklärt wie man mit Software LEDs dimmen kann.
 
-
-
 ### 2019-11: Linux Präsentation day Hannover
 
 Am 10. November 2018 findet der [Linux Präsentation Day](https://www.leinelab.org/doku.php/veranstaltungen:linux_presentation_day_am_10.11.2018)
@@ -51,7 +49,7 @@ im [Leinelab](https://www.leinelab.org) statt. Wir treffen uns dort und hören u
 ### 2018-10: Hackover
 
 Am 5.-7. Oktober findet das Hackover Statt. Das ist die Hannoveraner Hackerkonferenz mit Ganztagsfrühstück und vielen tollen Vorträgen.
-Wir besuchen die Veranstaltung und Treffen uns am [Samstag Abend](https://hackover.de/fahrplan/speakers/8091.html). Auch Hackerinnen* die uns das erste mal besuchen sind selbstverständlich eingelanden!
+Wir besuchen die Veranstaltung und Treffen uns am [Samstag Abend](https://hackover.de/fahrplan/speakers/8091.html). Auch Haecksen die uns das erste mal besuchen sind selbstverständlich Eingelanden!
 
 ### 2018-09: Mobile ERP-Systeme
 
