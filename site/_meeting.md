@@ -1,8 +1,5 @@
-<!--
-Wir treffen uns jeden dritten Freitag im Monat ab 19:00 Uhr im
-[Cafe Konrad]( https://www.openstreetmap.org/search?query=cafe%20konrad%20hannover#map=19/52.37246/9.73353 ).
--->
+Das Treffen findet jeden zweiten Donnerstag im Monat im CCC Hannover statt. ([Karte](https://www.openstreetmap.org/way/28166185#map=19/52.38811/9.71793); im 3. Stock).
 
 <div class="box" markdown="1">
-<strong>Januar 2019:</strong> exercism.io – Test Driven Development Erleben
+<strong>17. Januar 2019</strong> (dieses mal am 3. Freitag): exercism.io – Test Driven Development Erleben
 </div>

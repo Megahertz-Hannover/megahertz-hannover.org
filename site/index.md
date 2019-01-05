@@ -1,9 +1,9 @@
-Ein monatliches Meetup für Technikerinnen, technikinteressierte Frauen und
+Ein monatliches treffen des [Chaos Computer Club Hannover](https://hannover.ccc.de/) für Technikerinnen, technikinteressierte Frauen und
 all diejenigen die sich als Genderqueer oder Nichbinär identifizieren; es gibt Workshops und die Gelegenheit Gleichgesinnte zu finden!
 
 !!!include(_meeting.md)!!!
 
-Wir wollen einen Raum schaffen zum Coden, Hacken, Lernen, Löten usw. Egal ob Anfängerin oder Crack, immer rein mit euch!
+Wir bieten einen Raum schaffen zum Coden, Hacken, Lernen, Löten usw. Egal ob Anfängerin oder Crack, immer rein mit euch!
 Projekte starten, Networken, Spaß haben, Workshops halten und was uns sonst noch so einfällt. Ein mal im Monat für uns einen Hackerspace auf Zeit schaffen.
 Unser Ziel ist es für mehr Diversität im Bereich Informations- und Kommunikationstechnologie zu sorgen.
 
@@ -40,7 +40,7 @@ hohen Spannungen und Strömen arbeiten kann.
 Auf der Softwareseite werden Mikrocontroller vorgestellt die es einfach Machen WLAN zu benutzen
 und es wird erklärt wie man mit Software LEDs dimmen kann.
 
-### 2019-11: Linux Präsentation day Hannover
+### 2018-11: Linux Präsentation day Hannover
 
 Am 10. November 2018 findet der [Linux Präsentation Day](https://www.leinelab.org/doku.php/veranstaltungen:linux_presentation_day_am_10.11.2018)
 im [Leinelab](https://www.leinelab.org) statt. Wir treffen uns dort und hören uns gemeinsam die Spannenden Vorträge an.

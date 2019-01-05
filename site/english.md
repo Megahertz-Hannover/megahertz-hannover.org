@@ -1,4 +1,4 @@
-Megahertz is a monthly meetup for all woman and those who identify as Genderqueer or Nonbinary!
+Megahertz Hannover is a monthly meeting for all woman and those who identify as Genderqueer or Nonbinary organized by the [CCC Hannover](https://hannover.ccc.de/);
 
 !!!include(_meeting_en.md)!!!
 
