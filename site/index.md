@@ -3,7 +3,7 @@ all diejenigen die sich als Genderqueer oder Nichbinär identifizieren; es gibt 
 
 !!!include(_meeting.md)!!!
 
-Wir bieten einen Raum schaffen zum Coden, Hacken, Lernen, Löten usw. Egal ob Anfängerin oder Crack, immer rein mit euch!
+Wir bieten einen Raum zum Coden, Hacken, Lernen, Löten usw. Egal ob Anfängerin oder Crack, immer rein mit euch!
 Projekte starten, Networken, Spaß haben, Workshops halten und was uns sonst noch so einfällt. Ein mal im Monat für uns einen Hackerspace auf Zeit schaffen.
 Unser Ziel ist es für mehr Diversität im Bereich Informations- und Kommunikationstechnologie zu sorgen.
 
