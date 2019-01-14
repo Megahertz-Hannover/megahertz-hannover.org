@@ -1,16 +1,16 @@
-Ein monatliches treffen des [Chaos Computer Club Hannover](https://hannover.ccc.de/) für Technikerinnen, technikinteressierte Frauen und
-all diejenigen die sich als Genderqueer oder Nichbinär identifizieren; es gibt Workshops und die Gelegenheit Gleichgesinnte zu finden!
+Ein monatliches Treffen des [Chaos Computer Club Hannover](https://hannover.ccc.de/) für Technikerinnen, technikinteressierte Frauen und
+all diejenigen die sich als Genderqueer oder Nichbinär identifizieren. Es gibt Workshops und die Gelegenheit Gleichgesinnte zu finden!
 
 !!!include(_meeting.md)!!!
 
 Wir bieten einen Raum zum Coden, Hacken, Lernen, Löten usw. Egal ob Anfängerin oder Crack, immer rein mit euch!
-Projekte starten, Networken, Spaß haben, Workshops halten und was uns sonst noch so einfällt. Ein mal im Monat für uns einen Hackerspace auf Zeit schaffen.
+Projekte starten, Networken, Spaß haben, Workshops halten und was uns sonst noch so einfällt. Einmal im Monat für uns einen Hackerspace auf Zeit schaffen.
 Unser Ziel ist es für mehr Diversität im Bereich Informations- und Kommunikationstechnologie zu sorgen.
 
 Wir richten uns explizit an alle Frauen, Genderqueere und Nonbinäre Menschen die Interesse für Technik oder die gesellschaftlichen Auswirkungen von Technik haben,
 egal wie viel Expertise ihr mitbringt! Ob Politikerin, Künstlerin, Web-Designerin, Softwareentwicklerin, Mechanikerin oder Schülerin. Kommt einfach, wir freuen uns!
 
-Wir wollen auch einen Raum bieten um sich auszuprobieren, deshalb unterstützen wir auch insbesondere Menschen die zum Beispiel zum ersten mal einen Vortrag halten!
+Wir wollen auch einen Raum bieten um sich auszuprobieren, deshalb unterstützen wir auch insbesondere Menschen die zum Beispiel zum ersten Mal einen Vortrag halten.
 Schreibt uns eine [Mail](mailto:kontakt@megahertz-hannover.org), wir freuen uns über alle Beiträge!
 
 <a name="blog"></a>
