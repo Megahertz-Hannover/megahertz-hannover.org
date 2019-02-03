@@ -14,6 +14,12 @@ Wir wollen auch einen Raum bieten um sich auszuprobieren, deshalb unterstützen 
 Schreibt uns eine [Mail](mailto:kontakt@megahertz-hannover.org), wir freuen uns über alle Beiträge!
 
 <a name="blog"></a>
+### 2019-02: Geodaten im Artenschutz
+
+Corinna John erklärt uns, wofür Geodaten von Tieren relevant sind, wie man sie erfasst und auswertet.
+
+Woran kränkeln regionale Kartierungen? Wann setzen Behörden auf "Citizen Science"? Was erforschen internationale Großprojekte und akademische Langzeitstudien? Wir beschäftigen uns heute in allen Größenordnungen mit der Totalüberwachung argloser Wildtiere - natürlich nur zu ihrem Besten. Unser Mitglied coco kartiert selbst mit miserabler GIS-Software und möchte unter anderem darauf eingehen, was bei Regionalprojekten weshalb schief läuft.
+
 ### 2019-01: exercism.io – Test Driven Development Erleben
 
 Katrin Leinweber besucht uns um ein Tool vorzustellen, mit dem man TDD erleben kann: exercism.io
