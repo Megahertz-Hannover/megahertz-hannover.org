@@ -4,5 +4,5 @@ Die Treffen sind teilweise intern (nur für Frauen und Menschen die sich als Non
 Ob das nächste Treffen intern ist, wird jeweils angekündigt!
 
 <div class="box" markdown="1">
-<strong>12. Februar 2019; 19:00; offen für Frauen, NB</strong>: Geodaten im Artenschutz – technische Ansätze, organisatorische Fehlschläge und großartige Großprojekte
+<strong>14. Februar 2019; 19:00; offen für Frauen, NB</strong>: Geodaten im Artenschutz – technische Ansätze, organisatorische Fehlschläge und großartige Großprojekte
 </div>
