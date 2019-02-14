@@ -14,6 +14,12 @@ Wir wollen auch einen Raum bieten um sich auszuprobieren, deshalb unterstützen 
 Schreibt uns eine [Mail](mailto:kontakt@megahertz-hannover.org), wir freuen uns über alle Beiträge!
 
 <a name="blog"></a>
+### 2019-03:  Vektorgraphik Workshop: Logo- und Stickerdesign mit Incscape
+
+Inkscape ist ein praktisches offenes Programm zum erstellen von Vektorgrafiken; die sind nützlich zum erstellen von Logos, Comics und Web-Icons die sich beliebig vergrößern lassen ohne verpixelt zu werden.
+
+In einem spannenden Workshop ermöglicht Julia auch Blutigen Anfängen und Vollblut-Programmierern den Einstieg ins Grafikdesign und hilft den Teilnehmern dabei mit dem Design ihres ersten Logos oder Stickers zu beginnen.
+
 ### 2019-02: Geodaten im Artenschutz
 
 Corinna John erklärt uns, wofür Geodaten von Tieren relevant sind, wie man sie erfasst und auswertet.
