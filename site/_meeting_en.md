@@ -6,5 +6,5 @@ and some are open to all creatures.
 We announce for each meeting whether it is open for all or intern only.
 
 <div class="box" markdown="1">
-<strong>14th of Mark 2019; 7PM; open to all beings</strong> 2019-03: Vectorgraphics – Desiging logos and stickers with incspace
+<strong>14th of March 2019; 7PM; open to all beings</strong> 2019-03: Vectorgraphics – Desiging logos and stickers with incspace
 </div>
