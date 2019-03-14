@@ -1,6 +1,6 @@
 # Kontakt
 
-Wir treffen uns jeden zweiten Donnerstag im Monat im
+Wir treffen uns im
 [CCC Hannover]( https://www.openstreetmap.org/search?query=B%C3%BCrgerschule%20Nordstadt%20Hannover#map=19/52.38811/9.71793 ).
 !!!include(_meeting.md)!!!
 
