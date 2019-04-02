@@ -4,5 +4,5 @@ Die Treffen sind teilweise intern (nur für Frauen und Menschen die sich als Non
 Ob das nächste Treffen intern ist, wird jeweils angekündigt!
 
 <div class="box" markdown="1">
-<strong>14. März 2019; 19:00; offen für Alle!</strong> Vektorgraphik Workshop: Logo- und Stickerdesign mit Incscape
+<strong>11. April 2019; 19:00</strong> Vortrag über Robotik
 </div>
