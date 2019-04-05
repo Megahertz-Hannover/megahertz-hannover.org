@@ -14,6 +14,10 @@ Wir wollen auch einen Raum bieten um sich auszuprobieren, deshalb unterstützen 
 Schreibt uns eine [Mail](mailto:kontakt@megahertz-hannover.org), wir freuen uns über alle Beiträge!
 
 <a name="blog"></a>
+### 2019-04: Robotik!
+
+Fatou wird uns einen Überblick über das Thema Robotok geben: Tools, Methoden, FuckUps und aktuelle Forschung.
+
 ### 2019-03:  Vektorgraphik Workshop: Logo- und Stickerdesign mit Inkscape
 
 Inkscape ist ein praktisches, offenes Programm für Vektorgrafiken. Die sind nützlich zum Erstellen von Logos, Comics und Web-Icons, die sich beliebig vergrößern lassen, ohne verpixelt zu werden.
