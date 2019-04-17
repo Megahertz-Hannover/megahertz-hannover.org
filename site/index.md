@@ -14,9 +14,9 @@ Wir wollen auch einen Raum bieten um sich auszuprobieren, deshalb unterstützen 
 Schreibt uns eine [Mail](mailto:kontakt@megahertz-hannover.org), wir freuen uns über alle Beiträge!
 
 <a name="blog"></a>
-### 2019-04: Robotik!
+### 2019-05: Digitale Privatsphäre
 
-Fatou gibt uns einen Überblick über das Thema Robotok: Tools, Methoden, FuckUps und aktuelle Forschung.
+Wurdest Du schon mal "gehackt"? Wir haben Diskussionsbedarf bezüglich Identitätsdiebstahl und IT-Sicherheit im privaten Umfeld.
 
 ### 2019-04:  Robotik!
 
