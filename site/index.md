@@ -16,6 +16,10 @@ Schreibt uns eine [Mail](mailto:kontakt@megahertz-hannover.org), wir freuen uns 
 <a name="blog"></a>
 ### 2019-04: Robotik!
 
+Fatou gibt uns einen Überblick über das Thema Robotok: Tools, Methoden, FuckUps und aktuelle Forschung.
+
+### 2019-04:  Robotik!
+
 Fatou wird uns einen Überblick über das Thema Robotok geben: Tools, Methoden, FuckUps und aktuelle Forschung.
 
 ### 2019-03:  Vektorgraphik Workshop: Logo- und Stickerdesign mit Inkscape
