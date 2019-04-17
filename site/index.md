@@ -16,7 +16,7 @@ Schreibt uns eine [Mail](mailto:kontakt@megahertz-hannover.org), wir freuen uns 
 <a name="blog"></a>
 ### 2019-05: Digitale Privatsphäre
 
-Wurdest Du schon mal "gehackt"? Wir haben Diskussionsbedarf bezüglich Identitätsdiebstahl und IT-Sicherheit im privaten Umfeld.
+Wurdest Du schon mal 'gehackt'? Wir haben Diskussionsbedarf bezüglich Identitätsdiebstahl und IT-Sicherheit im privaten Umfeld.
 
 ### 2019-04:  Robotik!
 
