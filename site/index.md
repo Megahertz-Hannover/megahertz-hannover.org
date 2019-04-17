@@ -20,7 +20,7 @@ Wurdest Du schon mal \`gehackt\`? Wir haben Diskussionsbedarf bezüglich Identit
 
 ### 2019-04:  Robotik!
 
-Fatou wird uns einen Überblick über das Thema Robotok geben: Tools, Methoden, FuckUps und aktuelle Forschung.
+Fatou gibt uns einen Überblick über das Thema Robotok: Tools, Methoden, FuckUps und aktuelle Forschung.
 
 ### 2019-03:  Vektorgraphik Workshop: Logo- und Stickerdesign mit Inkscape
 
