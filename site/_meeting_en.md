@@ -6,5 +6,5 @@ and some are open to all creatures.
 We announce for each meeting whether it is open for all or intern only.
 
 <div class="box" markdown="1">
-<strong>9th of May 2019; 7PM</strong>: Discussion about cyber stalking and digital privacy
+<strong>13th of June 2019; 7PM</strong>: Relaxed writing. What can programs, editors and formats do for us? 
 </div>
