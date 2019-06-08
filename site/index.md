@@ -16,7 +16,7 @@ Schreibt uns eine [Mail](mailto:kontakt@megahertz-hannover.org), wir freuen uns 
 <a name="blog"></a>
 ### 2019-06: Texteditoren & Textsatz
 
-Wer am Rechner arbeitet, der schreibt. Aber wie funktioniert das eigentlich am besten - und möglichst nachhaltig? Neben klassischen What-you-see-is-what-you-get-Textverarbeitungsprogrammen wie beispielsweise LibreOffice oder Microsoft Word gibt es einiges mehr. Mit pandoc können beispielsweise diverse Formate in andere umgewandelt werden. Aus einfachen Textdateien können PDFs, Präsentationsfolien oder HTML-Seiten werden. Wir wollen genau darüber sprechen: Welche Programme, Formate und Editoren nutzen wir, um am Rechner möglichst einfach zu schreiben und davon möglichst lange etwas zu haben? Dabei gibt es kein "richtig" und kein "falsch", aber bestimmt können wir voneinander lernen.
+Wer am Rechner arbeitet, der schreibt. Aber wie funktioniert das eigentlich am besten - und möglichst nachhaltig? Neben klassischen What-you-see-is-what-you-get-Textverarbeitungsprogrammen wie beispielsweise LibreOffice oder Microsoft Word gibt es einiges mehr. Mit pandoc können beispielsweise diverse Formate in andere umgewandelt werden. Aus einfachen Textdateien können PDFs, Präsentationsfolien oder HTML-Seiten werden. Wir wollen genau darüber sprechen: Welche Programme, Formate und Editoren nutzen wir, um am Rechner möglichst einfach zu schreiben und davon möglichst lange etwas zu haben? Dabei gibt es kein richtig und kein falsch, aber bestimmt können wir voneinander lernen.
 
 ### 2019-05: Digitale Privatsphäre
 
