@@ -4,5 +4,5 @@ Die Treffen sind teilweise intern (nur für Frauen und Menschen die sich als Non
 Ob das nächste Treffen intern ist, wird jeweils angekündigt!
 
 <div class="box" markdown="1">
-<strong>13. Juni 2019, 19 Uhr</strong> Schreiben ohne Stress. Was können Programme, Formate und Editoren für uns tun?  
+<strong>11. Juli 2019, 19 Uhr</strong> Informationsverarbeitung in schleimig - Wie funktioniert unser Nervensystem?
 </div>
