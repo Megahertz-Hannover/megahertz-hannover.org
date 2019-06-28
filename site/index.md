@@ -11,9 +11,13 @@ Wir richten uns explizit an alle Frauen, Genderqueere und Nonbinäre Menschen di
 egal wie viel Expertise ihr mitbringt! Ob Politikerin, Künstlerin, Web-Designerin, Softwareentwicklerin, Mechanikerin oder Schülerin. Kommt einfach, wir freuen uns!
 
 Wir wollen auch einen Raum bieten um sich auszuprobieren, deshalb unterstützen wir auch insbesondere Menschen die zum Beispiel zum ersten Mal einen Vortrag halten.
-Schreibt uns eine [Mail](mailto:kontakt@megahertz-hannover.org), wir freuen uns über alle Beiträge!
+Schreibt uns eine [Mail](mailto:kontakt@megahertMaraz-hannover.org), wir freuen uns über alle Beiträge!
 
 <a name="blog"></a>
+### 2019-07:  Informationsverarbeitung in schleimig - Wie funktioniert unser Nevensystem?
+
+Ein Kurzer Überblick über die Funktion des Menschenlichen Nervensystems. Wie werden Informationen darin weitergegeben und was passiert wenn diese Weitergabe nicht mehr funktioniert?
+
 ### 2019-06: Texteditoren & Textsatz
 
 Wer am Rechner arbeitet, der schreibt. Aber wie funktioniert das eigentlich am besten - und möglichst nachhaltig?
