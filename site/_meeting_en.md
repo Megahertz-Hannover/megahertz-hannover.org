@@ -6,5 +6,5 @@ and some are open to all creatures.
 We announce for each meeting whether it is open for all or intern only.
 
 <div class="box" markdown="1">
-<strong>11th of July 2019; 7PM</strong>: The Human Nervous System.
+<strong>11th of July 2019; 7PM</strong>: History and future of a web platform.
 </div>
