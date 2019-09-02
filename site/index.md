@@ -14,6 +14,13 @@ Wir wollen auch einen Raum bieten um sich auszuprobieren, deshalb unterstützen 
 Schreibt uns eine [Mail](mailto:kontakt@megahertMaraz-hannover.org), wir freuen uns über alle Beiträge!
 
 <a name="blog"></a>
+
+### 2019-09: Musikproduktion im Computer
+
+Wie aus einem Studio voller Analogtechnik Software geworden ist, für die mittlerweile jedes Notebook leistungsfähig genug ist. Nach einem kurzen Theorieteil gibt es die Möglichkeit, eine DAW (Digital Audio Workstation) in der Praxis zu sehen und auch selbst auszuprobieren.
+
+### 2019-08: Geschichte und Zukunft einer Webplattform 
+
 ### 2019-07:  Informationsverarbeitung in schleimig - Wie funktioniert unser Nevensystem?
 
 Ein Kurzer Überblick über die Funktion des Menschenlichen Nervensystems. Wie werden Informationen darin weitergegeben und was passiert wenn diese Weitergabe nicht mehr funktioniert?
