@@ -4,5 +4,5 @@ Die Treffen sind teilweise intern (nur für Frauen und Menschen die sich als Non
 Ob das nächste Treffen intern ist, wird jeweils angekündigt!
 
 <div class="box" markdown="1">
-<strong>08. August 2019, 19 Uhr</strong> Geschichte und Zukunft einer Webplattform
+<strong>12. August 2019, 19 Uhr</strong> Musikproduktion im Computer
 </div>
