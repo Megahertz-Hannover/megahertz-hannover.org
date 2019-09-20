@@ -4,5 +4,6 @@ On the forth Thursday each month at 7PM we host a meeting that is open to everyo
 
 <div class="box" markdown="1">
 <strong>26th of September 2019; 7PM</strong> (open to all)
+<br>
 <strong>10th of October 2019; 7PM</strong> (open to women and people who identify as non binary)
 </div>

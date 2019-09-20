@@ -3,5 +3,6 @@ Zusätzlich dazu veranstalten wir jeden 4. Donnerstag ein offenes treffen im CCC
 
 <div class="box" markdown="1">
 <strong>26. September 2019 19:00</strong> (für Alle)
+<br>
 <strong>10. Oktober 2019 19:00</strong> (für Frauen und Menschen die sich als Non Binary identifizieren)
 </div>
