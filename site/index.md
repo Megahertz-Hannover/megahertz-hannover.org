@@ -15,6 +15,10 @@ Schreibt uns eine [Mail](mailto:kontakt@megahertMaraz-hannover.org), wir freuen 
 
 <a name="blog"></a>
 
+### 2019-10: Haecksen Jeopardy
+
+Wir spielen [Jeopardy](https://de.wikipedia.org/wiki/Jeopardy!).
+
 ### 2019-09: Musikproduktion im Computer
 
 Wie aus einem Studio voller Analogtechnik Software geworden ist, für die mittlerweile jedes Notebook leistungsfähig genug ist. Nach einem kurzen Theorieteil gibt es die Möglichkeit, eine DAW (Digital Audio Workstation) in der Praxis zu sehen und auch selbst auszuprobieren.

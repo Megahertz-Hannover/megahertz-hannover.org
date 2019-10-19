@@ -2,7 +2,7 @@ Ein mal im Monat ist der CCC Hannover für uns reserviert. Wir treffen uns jeden
 Zusätzlich dazu veranstalten wir jeden 4. Donnerstag ein offenes treffen im CCC Hannover bei dem alle willkommen sind.
 
 <div class="box" markdown="1">
-<strong>26. September 2019 19:00</strong> (für Alle)
+<strong>24. October 2019 19:00</strong> (für Alle)
+<strong>14. November 2019 19:00</strong> Wir spielen Jeopardy! (für Frauen und Menschen die sich als Non Binary identifizieren)
 <br>
-<strong>10. Oktober 2019 19:00</strong> (für Frauen und Menschen die sich als Non Binary identifizieren)
 </div>
