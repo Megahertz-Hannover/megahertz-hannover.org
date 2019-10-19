@@ -3,6 +3,6 @@ Zusätzlich dazu veranstalten wir jeden 4. Donnerstag ein offenes treffen im CCC
 
 <div class="box" markdown="1">
 <strong>24. October 2019 19:00</strong> (für Alle)
-<strong>14. November 2019 19:00</strong> Wir spielen Jeopardy! (für Frauen und Menschen die sich als Non Binary identifizieren)
 <br>
+<strong>14. November 2019 19:00</strong> Wir spielen Jeopardy! (für Frauen und Menschen die sich als Non Binary identifizieren)
 </div>
