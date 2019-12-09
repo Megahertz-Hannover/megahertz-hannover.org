@@ -15,9 +15,9 @@ Schreibt uns eine [Mail](mailto:kontakt@megahertMaraz-hannover.org), wir freuen 
 
 <a name="blog"></a>
 
-### 2019-10: Haecksen Jeopardy
+### 2019-12: Haecksen Jeopardy
 
-Wir spielen [Jeopardy](https://de.wikipedia.org/wiki/Jeopardy!).
+Wir spielen [Jeopardy](https://de.wikipedia.org/wiki/Jeopardy!) und zur Feier der Weihnachtszeit gibt es ein Festessen. Bringt Food!
 
 ### 2019-09: Musikproduktion im Computer
 
