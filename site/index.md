@@ -1,4 +1,4 @@
-Ein monatliches Treffen des [Chaos Computer Club Hannover](https://hannover.ccc.de/) für Technikerinnen, technikinteressierte Frauen und
+Ein monatliches Treffen des [C:kontakt@megahertz-hannover.orgtps://hannover.ccc.de/) für Technikerinnen, technikinteressierte Frauen und
 all diejenigen die sich als Genderqueer oder Nichbinär identifizieren. Es gibt Workshops und die Gelegenheit Gleichgesinnte zu finden!
 
 !!!include(_meeting.md)!!!
@@ -11,9 +11,13 @@ Wir richten uns explizit an alle Frauen, Genderqueere und Nonbinäre Menschen di
 egal wie viel Expertise ihr mitbringt! Ob Politikerin, Künstlerin, Web-Designerin, Softwareentwicklerin, Mechanikerin oder Schülerin. Kommt einfach, wir freuen uns!
 
 Wir wollen auch einen Raum bieten um sich auszuprobieren, deshalb unterstützen wir auch insbesondere Menschen die zum Beispiel zum ersten Mal einen Vortrag halten.
-Schreibt uns eine [Mail](mailto:kontakt@megahertMaraz-hannover.org), wir freuen uns über alle Beiträge!
+Schreibt uns eine [Mail](mailto:kontakt@megahertz-hannover.org), wir freuen uns über alle Beiträge!
 
 <a name="blog"></a>
+
+### 2020-01: media.ccc.de and chill
+
+Wir schauen Vorträge vom 36. Chaos Communication Congress!
 
 ### 2019-12: Haecksen Jeopardy
 
