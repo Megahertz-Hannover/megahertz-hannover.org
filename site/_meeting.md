@@ -2,7 +2,7 @@ Ein mal im Monat ist der CCC Hannover für uns reserviert. Wir treffen uns jeden
 Zusätzlich dazu veranstalten wir jeden 4. Donnerstag ein offenes treffen im CCC Hannover bei dem alle willkommen sind.
 
 <div class="box" markdown="1">
-<strong>27. Februar 2020 19:00</strong> Offenes treffen (für alle)
+<strong>12. März 2020 19:00</strong> Quantum Hardening for Dummies (Trans, Frauen, NonBinary, Inter)
 <br>
-<strong>12. März 2020 19:00</strong> Reguläres Treffen
+<strong>26. März 2020 19:00</strong> Freiheit! Fürs Telefon (für alle)
 </div>

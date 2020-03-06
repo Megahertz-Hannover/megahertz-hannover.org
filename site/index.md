@@ -15,6 +15,30 @@ Schreibt uns eine [Mail](mailto:kontakt@megahertz-hannover.org), wir freuen uns 
 
 <a name="blog"></a>
 
+### 2020-03: Freiheit! Fürs Telefon.
+
+Im offenen Megahertz Treffen diesen Monat erklärt Christian wie man das
+eigene Handy mit Freier Software gegen Überwachung absichern kann:
+
+Free your Android! Obwohl Android ein weitgehend freies System ist,
+wird es immer wieder gegen die Interessen der Nutzenden eingesetzt: Mit
+spionierenden Apps aus dem Google Play Store und der Spionage des Stores
+selbst. Der alternative F-Droid Store geht andere Wege, weil er nicht
+deine persönliche Daten will und auch keine Apps zulässt, die das
+wollen. Wenn du dann noch LineageOS als freies Android auf dein Telefon
+installierst, ist das vielleicht ein erster Schritt der Überwachung
+durch Google und Co. Tschüss zu sagen.
+
+### 2020-03: Quantum Hardening for Dummies
+
+**Wie unsere Kryptographischen Protokolle durch Quantencomputer angreifbar würden und was wir dagegen tun können.**
+
+In ihrem Workshop erläutert Karo zunächst wie moderne kryptographische Protokolle (zum Beispiel SSL oder TLS) aufgebaut sind
+und erläutert dann welche Aspekte dieser Protokolle durch Quantencomputer gefährdet werden und zeigt schlussendlich auf wie
+diese Schwachstellen abgesichert werden können.
+Dabei werden grundlegende Konzepte der Kryptographie eingeführt und erläutert wie diese im Zusammenhang stehen; auf die zugrunde liegende Mathematik wird
+nur sehr oberflächlich eingegangen.
+
 ### 2020-01: media.ccc.de and chill
 
 Wir schauen Vorträge vom 36. Chaos Communication Congress!
