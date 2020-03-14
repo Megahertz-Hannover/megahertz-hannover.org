@@ -3,7 +3,5 @@ Once a month, the CCC Hannover is reserved for us. We meet there at 7PM on the s
 On the forth Thursday each month at 7PM we host a meeting that is open to everyone.
 
 <div class="box" markdown="1">
-<strong>12th March 2020 19:00</strong> Quantum Hardening for Dummies (open to trans, woman, non binary, inter)
-<br>
-<strong>26th March 2020 19:00</strong> Freedom for our phones (open to everyone)
+<strong>All meetings have been postponed because of the Covid-19 epidemic.</strong>
 </div>
