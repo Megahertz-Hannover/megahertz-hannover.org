@@ -1,5 +1,5 @@
-Ein monatliches Treffen des [C:kontakt@megahertz-hannover.orgtps://hannover.ccc.de/) für Technikerinnen, technikinteressierte Frauen und
-all diejenigen die sich als Genderqueer oder Nichbinär identifizieren. Es gibt Workshops und die Gelegenheit Gleichgesinnte zu finden!
+Ein monatliches Treffen des [CCC Hannover](https://hannover.ccc.de/) für Technikerinnen, technikinteressierte Frauen,
+all diejenigen die sich als Genderqueer, Nichbinär oder Trans identifizieren. Es gibt Workshops und die Gelegenheit Gleichgesinnte zu finden!
 
 !!!include(_meeting.md)!!!
 
