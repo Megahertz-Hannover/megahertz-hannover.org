@@ -2,7 +2,7 @@
   "dependencies": {
     "jstransformer-markdown-it": "^2.1.0",
     "markdown-it-include": "^1.0.0",
-    "node-sass": "^4.9.0",
+    "node-sass": "^4.13.1",
     "pug-cli": "^1.0.0-alpha6"
   }
 }
