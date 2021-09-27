@@ -1,7 +1,11 @@
-Once a month, the CCC Hannover is reserved for us. We meet there at 7PM on the second Thursday each month.
+Once a month, the CCC Hannover is reserved for us. We meet there at 7PM on the first Monday each month.
 ([Map](https://www.openstreetmap.org/way/28166185#map=19/52.38811/9.71793); take the elevator to the third level).
 On the forth Thursday each month at 7PM we host a meeting that is open to everyone.
 
 <div class="box" markdown="1">
-<strong>All meetings have been postponed because of the Covid-19 epidemic.</strong>
+<strong>Date:</strong> Monday 2021-10-04 19:00
+<br><strong>Location:</strong> Leitstelle 511 - Chaos Computer Club Hannover e.V.
+<br><strong>Who:</strong>  FINTA (Woman, Intersex, Non-Binary, Trans, Agender)
+<br><strong>Topic:</strong> BYOT (Bring your own topic)
+<br><strong>Vaccination:</strong> 1G (open only to those who are vaccinated)
 </div>

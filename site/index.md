@@ -15,6 +15,10 @@ Schreibt uns eine [Mail](mailto:kontakt@megahertz-hannover.org), wir freuen uns 
 
 <a name="blog"></a>
 
+### 2021-10: Megahertz: Rise Again
+
+Wir wachen aus dem Winter…äh…coronaschlaf auf! Ab jetzt gibt es wieder monatlich Megahertz-Treffen unter 1G-Konditionen (nur geimpfte).
+
 ### 2020-03: Freiheit! Fürs Telefon.
 
 Im offenen Megahertz Treffen diesen Monat erklärt Christian wie man das

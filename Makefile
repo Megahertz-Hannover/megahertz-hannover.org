@@ -43,3 +43,7 @@ build/%: site/%
 
 $(outputs): Makefile
 site/index.md site/kontakt.md: site/_meeting.md
+
+site/index.md: site/_meeting.md
+site/kontakt.md: site/_meeting.md
+site/english.md: site/_meeting_en.md
