@@ -3,7 +3,7 @@ Once a month, the CCC Hannover is reserved for us. We meet there at 7PM on the f
 On the forth Thursday each month at 7PM we host a meeting that is open to everyone.
 
 <div class="box" markdown="1">
-<strong>Date:</strong> Monday 2021-10-04 19:00
+<strong>Date:</strong> The meetings are inactive right now, but there are occasional online meetings of the Haecksen (German-speaking women, non-binary, trans and agender people)
 <br><strong>Location:</strong> Leitstelle 511 - Chaos Computer Club Hannover e.V.
 <br><strong>Who:</strong>  FINTA (Woman, Intersex, Non-Binary, Trans, Agender)
 <br><strong>Topic:</strong> BYOT (Bring your own topic)
