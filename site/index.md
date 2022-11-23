@@ -15,6 +15,10 @@ Schreibt uns eine [Mail](mailto:kontakt@megahertz-hannover.org), wir freuen uns 
 
 <a name="blog"></a>
 
+### 2022-12: Winterschläfer leben länger
+
+Wir treffen uns am 5. Dezember mal wieder und hoffentlich dann gleich auch am 2. Januar 2023.
+
 ### 2021-10: Megahertz: Rise Again
 
 Wir wachen aus dem Winter…äh…coronaschlaf auf! Ab jetzt gibt es wieder monatlich Megahertz-Treffen unter 1G-Konditionen (nur geimpfte).
