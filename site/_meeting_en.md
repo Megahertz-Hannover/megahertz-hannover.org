@@ -5,7 +5,7 @@ If you consider yourself to be at-risk regarding covid, but you also cannot affo
 please send me a note; I will provide you with a FFP3-mask for self-protection. 
 
 <div class="box" markdown="1">
-<strong>Date:</strong> 2023-08-07 (Monday, 7th of August) 19:00 
+<strong>Date:</strong> 2023-09-04 (Monday, 4th of September) 19:00 
 <br><strong>Location:</strong> Leitstelle 511 - Chaos Computer Club Hannover e.V.
     <br>&nbsp;&nbsp; c/o Stadteilzentrum Nordstadt / Bürgerschule
     <br>&nbsp;&nbsp; Klaus-Müller-Kilian-Weg 2 (ehemals Schaufelder Str. 30)
