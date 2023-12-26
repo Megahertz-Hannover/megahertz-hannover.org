@@ -4,9 +4,9 @@ Wenn ihr für euch ein Covidrisiko identifiziert und Schwierigkeiten habt euch M
 ich werde euch FFP3-Masken zum Selbstschutz stellen. 
 
 <div class="box" markdown="1">
-<strong>Wann:</strong> 2023-12-11 (Montag, 11. Dezember) 19:00
+<strong>Wann:</strong> 2024-01-01 (Montag, 1. Januar) 19:00
 <br>
-<br><strong>Verschoben! Am 4. Dezember findet kein treffen statt!</strong>
+<br> Bitte bringt abendessen mit! Wir essen gemeinsam.
 <br>
 <br><strong>Wo:</strong> Leitstelle 511 - Chaos Computer Club Hannover e.V.
     <br>&nbsp;&nbsp; c/o Stadteilzentrum Nordstadt / Bürgerschule
