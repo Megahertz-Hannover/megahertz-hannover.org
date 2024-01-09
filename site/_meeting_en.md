@@ -5,9 +5,9 @@ If you consider yourself to be at-risk regarding covid, but you also cannot affo
 please send me a note; I will provide you with a FFP3-mask for self-protection. 
 
 <div class="box" markdown="1">
-<strong>Date:</strong> 2024-01-01 (Monday, 1st of January) 19:00 
+<strong>Date:</strong> 2024-01-13 (Thursday, 13th of January) 19:00 
 <br>
-<br> Please bring some food, we are having supper together.
+<br> <b>-=- Irregular meeting! -=- Irregular meeting! -=- Irregular meeting! -=- Irregular meeting! -=-</b>
 <br>
 <br><strong>Location:</strong> Leitstelle 511 - Chaos Computer Club Hannover e.V.
     <br>&nbsp;&nbsp; c/o Stadteilzentrum Nordstadt / Bürgerschule
