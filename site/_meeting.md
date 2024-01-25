@@ -4,10 +4,7 @@ Wenn ihr für euch ein Covidrisiko identifiziert und Schwierigkeiten habt euch M
 ich werde euch FFP3-Masken zum Selbstschutz stellen. 
 
 <div class="box" markdown="1">
-<strong>Wann:</strong> 2024-01-13 (Donnerstag, 13. Januar) 19:00
-<br>
-<br> <b>-=- Aus der Reihe! -=- Aus der Reihe! -=- Aus der Reihe! -=- Aus der Reihe! -=-</b>
-<br>
+<strong>Wann:</strong> 2024-02-05 (Montag, 5. Februar) 19:00
 <br><strong>Wo:</strong> Leitstelle 511 - Chaos Computer Club Hannover e.V.
     <br>&nbsp;&nbsp; c/o Stadteilzentrum Nordstadt / Bürgerschule
     <br>&nbsp;&nbsp; Klaus-Müller-Kilian-Weg 2 (ehemals Schaufelder Str. 30)
