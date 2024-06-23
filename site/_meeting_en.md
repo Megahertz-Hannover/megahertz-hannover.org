@@ -5,12 +5,13 @@ If you consider yourself to be at-risk regarding covid, but you also cannot affo
 please send me a note; I will provide you with a FFP3-mask for self-protection. 
 
 <div class="box" markdown="1">
-<strong>Date:</strong> 2024-06-03 (Monday, 3rd of June) 19:00 
+<strong>Date:</strong> 2024-07-08 (Monday, 8th of July) 19:00
+<br><strong>Second Monday of the month this time!</strong>
 <br><strong>Location:</strong> Leitstelle 511 - Chaos Computer Club Hannover e.V.
     <br>&nbsp;&nbsp; c/o Stadteilzentrum Nordstadt / Bürgerschule
     <br>&nbsp;&nbsp; Klaus-Müller-Kilian-Weg 2 (ehemals Schaufelder Str. 30)
     <br>&nbsp;&nbsp; 30167 Hannover 
-<br><strong>Who:</strong>  FINTA (Woman, Intersex, Non-Binary, Trans, Agender)
+<br><strong>Who:</strong>  FLINTA (Women, Lesbian, Intersex, Non-Binary, Trans, Agender)
 <br><strong>Topic:</strong> BYOT (Bring your own topic)
 <br><strong>Covid:</strong> Triple-vaccination (fully vaccinated), no symptoms, masking optional 
 </div>
