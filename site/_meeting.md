@@ -4,12 +4,13 @@ Wenn ihr für euch ein Covidrisiko identifiziert und Schwierigkeiten habt euch M
 ich werde euch FFP3-Masken zum Selbstschutz stellen. 
 
 <div class="box" markdown="1">
-<strong>Wann:</strong> 2024-06-03 (Montag, 3. Juni) 19:00
+<strong>Wann:</strong> 2024-07-08 (Montag, 8. Juli) 19:00
+<br><strong>Diesmal am zweiten Montag im Monat!</strong>
 <br><strong>Wo:</strong> Leitstelle 511 - Chaos Computer Club Hannover e.V.
     <br>&nbsp;&nbsp; c/o Stadteilzentrum Nordstadt / Bürgerschule
     <br>&nbsp;&nbsp; Klaus-Müller-Kilian-Weg 2 (ehemals Schaufelder Str. 30)
     <br>&nbsp;&nbsp; 30167 Hannover 
-<br><strong>Wer:</strong>  FINTA (Frauen, Intersex, Non-Binary, Trans, Agender)
+<br><strong>Wer:</strong>  FLINTA (Frauen, Lesben, Intersex, Non-Binary, Trans, Agender)
 <br><strong>Thema:</strong> Bringt doch bitte alle ein Thema mit. Wir machen Themenpicknick.
 <br><strong>Corona:</strong> Covid: Dreifachgeimpft; Masken optional; symptomfrei
 </div>
