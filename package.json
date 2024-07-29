@@ -1,8 +1,8 @@
 {
   "dependencies": {
+    "@tokilabs/pug3-cli": "^3.0.1",
     "jstransformer-markdown-it": "^3.0.0",
     "markdown-it-include": "^2.0.0",
-    "node-sass": "^9.0.0",
-    "@anduh/pug-cli": "1.0.0-alpha8"
+    "sass": "^1.77.8"
   }
 }

@@ -2,6 +2,8 @@ SHELL = bash
 
 PATH := $(PWD)/node_modules/.bin:$(PATH)
 
+SASS = sass
+PUG = pug3
 
 outputs = \
 	$(shell find site/ -type f          \
@@ -18,7 +20,7 @@ clean:
 
 build/%.html: site/%.pug site/_template.pug
 	@mkdir -p $(shell dirname $@)
-	cd "site" && pug3 < $< > ../$@ -O '{"basedir": ".", "filename": "."}'
+	cd "site" && $(PUG) < $< > ../$@ -O '{"basedir": ".", "filename": "."}'
 
 build/%.html: site/%.md site/_template.pug
 	@mkdir -p $(shell dirname $@)
@@ -31,11 +33,11 @@ build/%.html: site/%.md site/_template.pug
 				linkify=true                                \
 				quotes=['«\xA0', '\xA0»', '‹\xA0', '\xA0›'] \
 				plugins=['markdown-it-include']) $*.md"     \
-			| pug3 > ../$@ -O '{"basedir": ".", "filename": "."}'
+			| $(PUG) > ../$@ -O '{"basedir": ".", "filename": "."}'
 
 build/%.css: site/%.sass
 	@mkdir -p $(shell dirname $@)
-	node-sass --output-style compressed $< > $@
+	$(SASS) $< > $@
 
 build/%: site/%
 	@mkdir -p $(shell dirname $@)
