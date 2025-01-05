@@ -4,12 +4,12 @@ Wenn ihr für euch ein Covidrisiko identifiziert und Schwierigkeiten habt euch M
 ich werde euch FFP3-Masken zum Selbstschutz stellen. 
 
 <div class="box" markdown="1">
-<strong>Wann:</strong> 2024-12-02 (Montag, 2. Dezember) 19:00 
+<strong>Wann:</strong> 2025-01-06 (Montag, 6. Januar) 19:00 
 <br><strong>Wo:</strong> Leitstelle 511 - Chaos Computer Club Hannover e.V.
     <br>&nbsp;&nbsp; c/o Stadteilzentrum Nordstadt / Bürgerschule
     <br>&nbsp;&nbsp; Klaus-Müller-Kilian-Weg 2 (ehemals Schaufelder Str. 30)
     <br>&nbsp;&nbsp; 30167 Hannover 
 <br><strong>Wer:</strong>  FLINTA (Frauen, Lesben, Intersex, Non-Binary, Trans, Agender)
-<br><strong>Thema:</strong> Weil's so schön war nocheinmal Bastelstunde: Katzenohren, Einhornhorn, Prinzessinnenkrone - bringt gerne eigenen Bastelkram mit für nerdigen Kopfschmuck oder anderes -  oder weitere Themen.
+<br><strong>Thema:</strong> Neujahrstreff & Hangout, 38C3 Lieblingstalks und -events teilen
 <br><strong>Corona:</strong> Covid: Dreifachgeimpft; Masken optional; symptomfrei
 </div>
