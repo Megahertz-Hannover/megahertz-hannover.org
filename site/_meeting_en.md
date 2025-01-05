@@ -5,12 +5,12 @@ If you consider yourself to be at-risk regarding covid, but you also cannot affo
 please send me a note; I will provide you with a FFP3-mask for self-protection. 
 
 <div class="box" markdown="1">
-<strong>Date:</strong> 2024-12-02 (Monday, 2nd of December) 19:00
+<strong>Date:</strong> 2025-01-06 (Monday, 6th of January) 19:00
 <br><strong>Location:</strong> Leitstelle 511 - Chaos Computer Club Hannover e.V.
     <br>&nbsp;&nbsp; c/o Stadteilzentrum Nordstadt / Bürgerschule
     <br>&nbsp;&nbsp; Klaus-Müller-Kilian-Weg 2 (ehemals Schaufelder Str. 30)
     <br>&nbsp;&nbsp; 30167 Hannover 
 <br><strong>Who:</strong>  FLINTA (Women, Lesbian, Intersex, Non-Binary, Trans, Agender)
-<br><strong>Topic:</strong> because it was so nice, another arts and crafts session: cat ears, unicorn horns, princess crowns - feel free to bring your own stuff for awesome head decorations and other stuff - or other topics
+<br><strong>Topic:</strong> New Year chill Hangout, share favourite 38C3 talks and moments
 <br><strong>Covid:</strong> Triple-vaccination (fully vaccinated), no symptoms, masking optional 
 </div>
