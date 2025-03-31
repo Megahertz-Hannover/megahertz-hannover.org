@@ -5,15 +5,11 @@ Wir treffen uns im
 !!!include(_meeting.md)!!!
 
 Du erreichst uns per E-Mail an kontakt@megahertz-hannover.org oder
-auf Twitter als [@MegaHertz_H](https://twitter.com/MegaHertz_H).
+im Fedi unter chaos.social/@megaHertz.
 
 ## Chat
 
-Wir haben einen Channel im [Darkfasel IRC](https://www.darkfasel.net/): `#mhzhannover`.
-
-Der kann per [Webchat](https://webirc.darkfasel.net), [Riot/Matrix](https://riot.im) (`/j #fuckeverywhere:http://darkfasel.net` eingeben)
-oder mit beliebigen IRC clients (zum Beispiel [Pidgin](https://pidgin.im/) unter Windows und Linux, oder [Adium](https://adium.im/) auf Mac).
-
+Wir haben einen (mitelmäßig aktiven) Raum im Matrixchat. Sprich uns an, wenn du Interesse hast, dort eingeladen zu werden.
 
 ## Mailing Liste
 
