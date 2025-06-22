@@ -9,7 +9,7 @@ im Fedi unter chaos.social/@megaHertz.
 
 ## Chat
 
-Wir haben einen (mitelmäßig aktiven) Raum im Matrixchat. Sprich uns an, wenn du Interesse hast, dort eingeladen zu werden.
+Wir haben einen (mittelmäßig aktiven) Raum im Matrixchat. Sprich uns an, wenn du Interesse hast, dort eingeladen zu werden.
 
 ## Mailing Liste
 
@@ -29,6 +29,10 @@ Wir haben einen (mitelmäßig aktiven) Raum im Matrixchat. Sprich uns an, wenn d
   <br/>
   <input maxlength="51" name="mailaccount2_r" type="text">
   <br/>
+  In welcher Stadt trifft sich Megahertz?
+  <br/>
+  <input maxlength="100" id="reply" name="reply" type="text">
+  <br/>
 
   <br/>
   <input id="submit" type="SUBMIT" value="Absenden">
@@ -40,3 +44,14 @@ Wir haben einen (mitelmäßig aktiven) Raum im Matrixchat. Sprich uns an, wenn d
   <input name="FBURLUNSUBSCRIBE_L" type="hidden" value="http://kundenserver.de/mailinglist/unsubscribe.de.html">
   <input name="FBURLINVALID_L" type="hidden" value="http://kundenserver.de/mailinglist/invalid.de.html">
 </form>
+
+<script>
+	let mailForm = document.getElementById('subscribe');	
+	mailForm.addEventListener("submit", (event) => { 
+		event.preventDefault();
+		let test = document.getElementById('reply');
+		if(test.value.toLowerCase() === 'hannover') {
+			mailForm.submit();
+		}
+	})
+</script>
