@@ -35,7 +35,7 @@ Wir haben einen (mittelmäßig aktiven) Raum im Matrixchat. Sprich uns an, wenn 
   <br/>
 
   <br/>
-  <input id="submit" type="SUBMIT" value="Absenden">
+  <input id="submitButton" type="SUBMIT" value="Absenden">
 
   <input name="FBMLNAME" type="hidden" value="intern@megahertz-hannover.org">
   <input name="FBLANG" type="hidden" value="de">
