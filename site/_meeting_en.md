@@ -5,7 +5,7 @@ If you consider yourself to be at-risk regarding covid, but you also cannot affo
 please send us a note; we will provide you with a FFP3-mask for self-protection. 
 
 <div class="box" markdown="1">
-<strong>Date:</strong> 2025-06-02 (Monday, 2nd of June) 19:00 (usually until 9-10 pm)
+<strong>Date:</strong> 2025-07-07 (Monday, 7th of July) 19:00 (usually until 9-10 pm)
 <br><strong>Location:</strong> Leitstelle 511 - Chaos Computer Club Hannover e.V.
     <br>&nbsp;&nbsp; c/o Stadteilzentrum Nordstadt / Bürgerschule
     <br>&nbsp;&nbsp; Klaus-Müller-Kilian-Weg 2 (ehemals Schaufelder Str. 30)
