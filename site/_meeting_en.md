@@ -5,12 +5,12 @@ If you consider yourself to be at-risk regarding covid, but you also cannot affo
 please send us a note; we will provide you with a FFP3-mask for self-protection. 
 
 <div class="box" markdown="1">
-<strong>Date:</strong> 2025-08-04 (Monday, August 4) 19:00 (usually until 9-10 pm)
+<strong>Date:</strong> 2025-09-01 (Monday, September 1st) 7pm/19:00 (usually until 21:00-22:00/9-10pm)
 <br><strong>Location:</strong> Leitstelle 511 - Chaos Computer Club Hannover e.V.
     <br>&nbsp;&nbsp; c/o Stadteilzentrum Nordstadt / Bürgerschule
     <br>&nbsp;&nbsp; Klaus-Müller-Kilian-Weg 2 (ehemals Schaufelder Str. 30)
     <br>&nbsp;&nbsp; 30167 Hannover 
 <br><strong>Who:</strong>  FLINTA (Women, Lesbian, Intersex, Non-Binary, Trans, Agender)
-<br><strong>Topic:</strong> to be determined, bring what you have: knitting, games, soldering projects, programming stuff, or anything else you like
+<br><strong>Topic:</strong> Project time! Bring what you have: knitting, games, soldering projects, programming stuff, or anything else you like
 <br><strong>Covid:</strong> Triple-vaccination (fully vaccinated), no symptoms, masking optional 
 </div>
