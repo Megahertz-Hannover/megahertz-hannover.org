@@ -4,8 +4,10 @@ Once a month, the CCC Hannover is reserved for us. We meet there at 7PM on the f
 If you consider yourself to be at-risk regarding covid, but you also cannot afford expensive masks,
 please send us a note; we will provide you with a FFP3-mask for self-protection. 
 
+On the second Monday of the month in November!
+
 <div class="box" markdown="1">
-<strong>Date:</strong> 2025-09-01 (Monday, September 1st) 7pm/19:00 (usually until 21:00-22:00/9-10pm)
+<strong>Date:</strong> 2025-11-10 (Monday, November 10th) 7pm/19:00 (usually until 21:00-22:00/9-10pm)
 <br><strong>Location:</strong> Leitstelle 511 - Chaos Computer Club Hannover e.V.
     <br>&nbsp;&nbsp; c/o Stadteilzentrum Nordstadt / Bürgerschule
     <br>&nbsp;&nbsp; Klaus-Müller-Kilian-Weg 2 (ehemals Schaufelder Str. 30)
