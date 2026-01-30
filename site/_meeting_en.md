@@ -5,7 +5,7 @@ If you consider yourself to be at-risk regarding covid, but you also cannot affo
 please send us a note; we will provide you with a FFP3-mask for self-protection. 
 
 <div class="box" markdown="1">
-<strong>Date:</strong> 2025-12-01 (Monday, December 1st) 7pm/19:00 (usually until 21:00-22:00/9-10pm)
+<strong>Date:</strong> Please check the website of C3H for the next meeting: https://hannover.ccc.de/ 
 <br><strong>Location:</strong> Leitstelle 511 - Chaos Computer Club Hannover e.V.
     <br>&nbsp;&nbsp; c/o Stadteilzentrum Nordstadt / Bürgerschule
     <br>&nbsp;&nbsp; Klaus-Müller-Kilian-Weg 2 (ehemals Schaufelder Str. 30)
