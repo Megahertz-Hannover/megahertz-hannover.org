@@ -1,4 +1,4 @@
-Once a month, the CCC Hannover is reserved for us. We meet there at 7PM on the first Monday each month.
+Once or twice a month, the CCC Hannover is reserved for us. We meet there at 7PM every 4 weeks on Monday.
 ([Map](https://www.openstreetmap.org/way/28166185#map=19/52.38811/9.71793); take the elevator to the third level).
 
 If you consider yourself to be at-risk regarding covid, but you also cannot afford expensive masks,
