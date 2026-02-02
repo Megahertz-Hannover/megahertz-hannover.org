@@ -1,4 +1,4 @@
-Einmal im Monat ist der CCC Hannover für uns reserviert. Wir treffen uns jeden 1. Montag im Monat ab 19 Uhr dort. ([Karte](https://www.openstreetmap.org/way/28166185#map=19/52.38811/9.71793); im 3. Stock).
+Ein- bis zweimal im Monat ist der CCC Hannover für uns reserviert. Wir treffen uns alle 4 Wochen Montags im Monat ab 19 Uhr dort. ([Karte](https://www.openstreetmap.org/way/28166185#map=19/52.38811/9.71793); im 3. Stock).
 
 Wenn ihr für euch ein Covidrisiko identifiziert und Schwierigkeiten habt euch Masken zu leisten, schreibt uns bitte eine Nachricht,
 wir werden euch FFP3-Masken zum Selbstschutz stellen. 
